@@ -11,3 +11,17 @@
     align-items: center;
     text-align: center;
 }
+
+a {
+    color: cornflowerblue;
+    text-underline: cornflowerblue;
+    text-decoration: underline;
+
+}
+
+a:hover {
+    color: skyblue;
+    text-underline: skyblue;
+    text-decoration: underline;
+    cursor: pointer;
+}
